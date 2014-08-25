@@ -1,0 +1,15 @@
+{
+    "name": "digital-canvas/simple-file-logger",
+    "description": "A simple logger that logs messages",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jonathan Bernardi",
+            "email": "jonathan@digitalcanvas.com"
+        }
+    ],
+    "autoload": {
+
+         "psr-0": {"SimpleFileLogger" : "src/SimpleFileLogger.php"}
+    }
+}
