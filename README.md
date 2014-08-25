@@ -1,6 +1,9 @@
 Simple File Logger
 ==================
 
+[![Build Status](https://travis-ci.org/digital-canvas/simple-file-logger.svg?branch=master)](https://travis-ci.org/digital-canvas/simple-file-logger)
+
+
 A simple logger that logs messages to a file.
 
 ## Installation
