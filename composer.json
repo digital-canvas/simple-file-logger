@@ -1,6 +1,6 @@
 {
     "name": "digital-canvas/simple-file-logger",
-    "description": "A simple logger that logs messages",
+    "description": "A simple logger that logs messages to a file.",
     "license": "MIT",
     "authors": [
         {
